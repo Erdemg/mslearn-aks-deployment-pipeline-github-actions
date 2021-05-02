@@ -25,5 +25,5 @@ jobs:
         uses: docker/build-push-action@v2.4.0
         with:
           context: .
-          tags: contoso-website/latest
+          tags: contoso-website/app:latest
           repository: contoso-website
