@@ -1,6 +1,6 @@
 image:
   repository: acrerdprodwetapp01.azurecr.io
-  name: contoso-website
+  name: contoso-website/app
   tag: latest
 
 dns:
